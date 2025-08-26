@@ -1,0 +1,99 @@
+Simulation ID,Rules,Station ID,Total Work Time,Total Idle Time,Utilization
+Simulation1,FCFS + FCFS,A-1,79.11,20.89,79.11
+Simulation1,FCFS + FCFS,A-2,78.22,21.78,78.22
+Simulation1,FCFS + FCFS,B-1,78.72,21.28,78.72
+Simulation1,FCFS + FCFS,B-2,90.0,10.0,90.0
+Simulation1,FCFS + FCFS,C-1,61.36,38.64,61.36
+Simulation1,FCFS + FCFS,C-2,67.05,32.95,67.05
+Simulation1,FCFS + FCFS,D-1,63.67,36.33,63.67
+Simulation1,FCFS + FCFS,D-2,60.38,39.62,60.38
+Simulation1,FCFS + FCFS,D-3,64.05,35.95,64.05
+Simulation1,FCFS + FCFS,E-1,51.9,48.1,51.9
+Simulation ID,Rules,Station ID,Total Work Time,Total Idle Time,Utilization
+Simulation2,FCFS + SPT,A-1,77.31,22.69,77.31
+Simulation2,FCFS + SPT,A-2,80.02,19.98,80.02
+Simulation2,FCFS + SPT,B-1,83.37,16.63,83.37
+Simulation2,FCFS + SPT,B-2,90.0,10.0,90.0
+Simulation2,FCFS + SPT,C-1,74.42,25.58,74.42
+Simulation2,FCFS + SPT,C-2,53.99,46.01,53.99
+Simulation2,FCFS + SPT,D-1,54.7,45.3,54.7
+Simulation2,FCFS + SPT,D-2,70.19,29.81,70.19
+Simulation2,FCFS + SPT,D-3,70.19,29.81,70.19
+Simulation2,FCFS + SPT,E-1,57.16,42.84,57.16
+Simulation ID,Rules,Station ID,Total Work Time,Total Idle Time,Utilization
+Simulation3,FCFS + PST,A-1,77.57,22.43,77.57
+Simulation3,FCFS + PST,A-2,79.76,20.24,79.76
+Simulation3,FCFS + PST,B-1,90.39,9.61,90.39
+Simulation3,FCFS + PST,B-2,84.07,15.93,84.07
+Simulation3,FCFS + PST,C-1,67.53,32.47,67.53
+Simulation3,FCFS + PST,C-2,60.88,39.12,60.88
+Simulation3,FCFS + PST,D-1,68.69,31.31,68.69
+Simulation3,FCFS + PST,D-2,61.55,38.45,61.55
+Simulation3,FCFS + PST,D-3,68.86,31.14,68.86
+Simulation3,FCFS + PST,E-1,56.59,43.41,56.59
+Simulation ID,Rules,Station ID,Total Work Time,Total Idle Time,Utilization
+Simulation4,CR + FCFS,A-1,79.16,20.84,79.16
+Simulation4,CR + FCFS,A-2,78.17,21.83,78.17
+Simulation4,CR + FCFS,B-1,85.3,14.7,85.3
+Simulation4,CR + FCFS,B-2,86.68,13.32,86.68
+Simulation4,CR + FCFS,C-1,66.74,33.26,66.74
+Simulation4,CR + FCFS,C-2,61.67,38.33,61.67
+Simulation4,CR + FCFS,D-1,59.68,40.32,59.68
+Simulation4,CR + FCFS,D-2,63.77,36.23,63.77
+Simulation4,CR + FCFS,D-3,67.89,32.11,67.89
+Simulation4,CR + FCFS,E-1,53.08,46.92,53.08
+Simulation ID,Rules,Station ID,Total Work Time,Total Idle Time,Utilization
+Simulation5,CR + SPT,A-1,77.21,22.79,77.21
+Simulation5,CR + SPT,A-2,80.12,19.88,80.12
+Simulation5,CR + SPT,B-1,87.0,13.0,87.0
+Simulation5,CR + SPT,B-2,90.4,9.6,90.4
+Simulation5,CR + SPT,C-1,66.05,33.95,66.05
+Simulation5,CR + SPT,C-2,62.36,37.64,62.36
+Simulation5,CR + SPT,D-1,66.97,33.03,66.97
+Simulation5,CR + SPT,D-2,63.77,36.23,63.77
+Simulation5,CR + SPT,D-3,64.87,35.13,64.87
+Simulation5,CR + SPT,E-1,59.87,40.13,59.87
+Simulation ID,Rules,Station ID,Total Work Time,Total Idle Time,Utilization
+Simulation6,CR + PST,A-1,79.08,20.92,79.08
+Simulation6,CR + PST,A-2,78.25,21.75,78.25
+Simulation6,CR + PST,B-1,91.78,8.22,91.78
+Simulation6,CR + PST,B-2,82.26,17.74,82.26
+Simulation6,CR + PST,C-1,71.19,28.81,71.19
+Simulation6,CR + PST,C-2,57.22,42.78,57.22
+Simulation6,CR + PST,D-1,74.74,25.26,74.74
+Simulation6,CR + PST,D-2,59.34,40.66,59.34
+Simulation6,CR + PST,D-3,65.02,34.98,65.02
+Simulation6,CR + PST,E-1,59.87,40.13,59.87
+Simulation ID,Rules,Station ID,Total Work Time,Total Idle Time,Utilization
+Simulation7,EDD + FCFS,A-1,82.22,17.78,82.22
+Simulation7,EDD + FCFS,A-2,75.11,24.89,75.11
+Simulation7,EDD + FCFS,B-1,83.63,16.37,83.63
+Simulation7,EDD + FCFS,B-2,87.31,12.69,87.31
+Simulation7,EDD + FCFS,C-1,65.01,34.99,65.01
+Simulation7,EDD + FCFS,C-2,63.4,36.6,63.4
+Simulation7,EDD + FCFS,D-1,75.85,24.15,75.85
+Simulation7,EDD + FCFS,D-2,49.16,50.84,49.16
+Simulation7,EDD + FCFS,D-3,66.2,33.8,66.2
+Simulation7,EDD + FCFS,E-1,53.08,46.92,53.08
+Simulation ID,Rules,Station ID,Total Work Time,Total Idle Time,Utilization
+Simulation8,EDD + SPT,A-1,74.09,25.91,74.09
+Simulation8,EDD + SPT,A-2,83.24,16.76,83.24
+Simulation8,EDD + SPT,B-1,83.54,16.46,83.54
+Simulation8,EDD + SPT,B-2,84.96,15.04,84.96
+Simulation8,EDD + SPT,C-1,58.69,41.31,58.69
+Simulation8,EDD + SPT,C-2,69.72,30.28,69.72
+Simulation8,EDD + SPT,D-1,61.67,38.33,61.67
+Simulation8,EDD + SPT,D-2,59.5,40.5,59.5
+Simulation8,EDD + SPT,D-3,73.91,26.09,73.91
+Simulation8,EDD + SPT,E-1,59.87,40.13,59.87
+Simulation ID,Rules,Station ID,Total Work Time,Total Idle Time,Utilization
+Simulation9,EDD + PST,A-1,82.22,17.78,82.22
+Simulation9,EDD + PST,A-2,75.11,24.89,75.11
+Simulation9,EDD + PST,B-1,83.63,16.37,83.63
+Simulation9,EDD + PST,B-2,87.31,12.69,87.31
+Simulation9,EDD + PST,C-1,67.14,32.86,67.14
+Simulation9,EDD + PST,C-2,61.27,38.73,61.27
+Simulation9,EDD + PST,D-1,70.44,29.56,70.44
+Simulation9,EDD + PST,D-2,59.38,40.62,59.38
+Simulation9,EDD + PST,D-3,66.3,33.7,66.3
+Simulation9,EDD + PST,E-1,53.08,46.92,53.08

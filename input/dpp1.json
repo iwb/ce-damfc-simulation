@@ -1,0 +1,56 @@
+{
+    "process_plan": "SampleProcessPlan1",
+    "disassembly_flow": [
+      {
+        "dissassembly_module": "S1",
+        "produced_component": "C1",
+        "task": "T1",
+        "time_min": 0,
+        "time_max": 3,
+        "revenue": 50,
+        "depth": 1,
+        "next_steps": [
+          {
+            "dissassembly_module": "S2",
+            "produced_component": "",
+            "task": "T2",
+            "time_min": 1,
+            "time_max": 4,
+            "revenue": 70,
+            "depth": 2,
+            "next_steps": [
+              {
+                "dissassembly_module": "S4",
+                "produced_component": "C4",
+                "task": "T4",
+                "time_min": 3,
+                "time_max": 4,
+                "revenue": 100,
+                "depth": 3,
+                "next_steps": [
+                  {
+                    "dissassembly_module": "S5",
+                    "produced_component": "C5",
+                    "task": "T5",
+                    "time_min": 2,
+                    "time_max": 4,
+                    "revenue": 80,
+                    "depth": 4
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "dissassembly_module": "S3",
+            "produced_component": "C3",
+            "task": "T3",
+            "time_min": 1,
+            "time_max": 3,
+            "revenue": 60,
+            "depth": 2
+          }
+        ]
+      }
+    ]
+  }
