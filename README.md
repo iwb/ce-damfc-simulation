@@ -93,7 +93,8 @@ The framework implements a modular architecture with several core components.
 <div align="center">
   <figure>
     <img src="docs/data_flow.svg" alt="System Architecture" style="width: 90%; max-width: 400px;">
-    <figcaption><em>Figure 1: System architecture showing the interaction between core components</em></figcaption>
+    <br>
+    <em>Figure 1: System architecture showing the interaction between core components</em>
   </figure>
 </div>
 
@@ -240,7 +241,8 @@ An Interactive log viewer with search and filter capabilities
 <div align="center">
   <figure>
     <img src="docs/viz_full_event_log.png" alt="Event Log Explorer" style="width: 90%; max-width: 400px;">
-    <figcaption><em>Figure 2: Event log explorer with search and filter capabilities</em></figcaption>
+    <br>
+    <em>Figure 2: Event log explorer with search and filter capabilities</em>
   </figure>
 </div>
 
@@ -272,7 +274,8 @@ Table displaying comprehensive performance metrics
 <div align="center">
   <figure>
     <img src="docs/viz_kpi_table.png" alt="KPI Table" style="width: 90%; max-width: 400px;">
-    <figcaption><em>Figure 3: KPI table of results viewer</em></figcaption>
+    <br>
+    <em>Figure 3: KPI table of results viewer</em>
   </figure>
 </div>
 
@@ -288,7 +291,8 @@ Bar chart visualization comparing idle times across workstations
 <div align="center">
   <figure>
     <img src="docs/viz_idle_time_plot.png" alt="Idle Time PLot" style="width: 90%; max-width: 400px;">
-    <figcaption><em>Figure 4: Idle time plot of results viewer</em></figcaption>
+    <br>
+    <em>Figure 4: Idle time plot of results viewer</em>
   </figure>
 </div>
 
@@ -305,7 +309,8 @@ Bar chart showing the percentage utilization for each workstation
 <div align="center">
   <figure>
     <img src="docs/viz_utilization_plot.png" alt="Utilization Plot" style="width: 90%; max-width: 400px;">
-    <figcaption><em>Figure 5: Utilization plot of results viewer</em></figcaption>
+    <br>
+    <em>Figure 5: Utilization plot of results viewer</em>
   </figure>
 </div>
 
