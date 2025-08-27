@@ -261,8 +261,8 @@ Closing the Event Log Explorer opens the "Combined Simulation Results" window, w
 **1. KPI Table Tab**</br>
 Table displaying comprehensive performance metrics
 - information and metrics shown:
-  - **Rules**: 
-  - **Total Orders**:
+  - **Rules**: pool sequencing and shop floor dispatching rule combination (e.g., "FCFS + SPT")
+  - **Total Orders**: number of orders generated and processed during the simulation (default: 70)
   - **Workload Norm**: applied threshold for order release
   - **Overdue Orders**: count of orders exceeding due dates
   - **Unfinished Orders**: orders not completed within the simulated time
