@@ -20,7 +20,7 @@ A flexible simulation framework for evaluating Material Flow Control (MFC) strat
 - [Introduction](#introduction)
 - [Resources](#resources)
 - [Usage Instructions](#usage-instructions)
-- [Visualization and Analysis Tools](#visualization-and-analysis-tools)
+- [Visualization](#visualization)
 - [Citation](#citation)
 - [License](#license)
 
