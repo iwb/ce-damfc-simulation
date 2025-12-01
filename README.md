@@ -27,7 +27,9 @@ A flexible simulation framework for evaluating Material Flow Control (MFC) strat
 
 ## Contact
 ### Contact Details
-Patrick Jordan: patrick.jordan@iwb.tum.de  
+Corresponding author: Patrick Jordan  
+Institutional email: patrick.jordan@iwb.tum.de  
+Personal profile: [patrick-jordan.github.io](https://patrick-jordan.github.io/)
 
 
 ### Useful Links
