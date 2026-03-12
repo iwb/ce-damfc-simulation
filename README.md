@@ -1,6 +1,4 @@
 # DisAssembly-MFC (DAMFC)
-> **⚠️ Note**
-The associated research article for this repository is not yet published. Information such as the DOI and links will be updated after the article is published.
 
 ![Version](https://img.shields.io/badge/version-2025.09-blue)
 ![Status](https://img.shields.io/badge/status-research%20prototype-orange)
@@ -65,16 +63,13 @@ The framework includes:
 
 
 ### Related Research Work
-> **⚠️ Note** Updated after the publication of the research article
-
 The framework is part of the research published in the following article:
 
 **"Simulation Framework For Evaluating Pool Sequencing And Shop Floor Dis-patching Rules In Disassembly"**  
 *P. Jordan, H. Zhang, M. Wegmann, L. Streibel, C. Reuter, M. F. Zaeh*   
-Presented at [Conference (Year)]. [Updated after publication] 
+Presented at IEEE International Conference on Industrial Engineering and Engineering Management (2025)Conference (Year). 
 
-[For more details, please refer to the published article (Link)](#)
-[Link is inserted after publication] 
+[For more details, please refer to the published article (Link)](https://doi.org/10.1109/IEEM63636.2025.11357707)
 
 ### Abstract
 Due to the trend towards a circular economy, the efficient management of end-of-life products and disassembly has become more important. This repository provides a modular simulation framework for evaluating and comparing various production control strategies in disassembly systems. The framework integrates and evaluates different material flow control methods, including the Lancaster University Management School Corrected Order Release (LUMS-COR) approach and various pool sequencing and shop floor dispatching rule combinations. Key performance indicators such as resource utilization, throughput time, and profitability can be assessed, enabling the evaluation of the effectiveness of a chosen combination of pool sequencing and shop floor dispatching rules.
@@ -363,15 +358,19 @@ To add custom disassembly process plans:
 <!-- ================================================== -->
 ## Citation
 If you use this repository or the tools for your research or industry projects, please cite the following article:
-> **⚠️ Note** Updated after the publication of the research article
-
-
 
 ```bibtex
-@article{example_key,
-title = {Example Title},
-journal = {...}
-}
+@INPROCEEDINGS{11357707,
+  author={Jordan, P. and Zhang, H. and Wegmann, M. and Streibel, L. and Reuter, C. and Zaeh, M. F.},
+  booktitle={2025 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)}, 
+  title={Simulation Framework For Evaluating Pool Sequencing And Shop Floor Dispatching Rules In Disassembly}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={0073-0080},
+  keywords={Sequential analysis;Uncertainty;Systematics;Flow production systems;Transportation;Production control;Throughput;Dispatching;Workstations;Time factors;Disassembly;production control;workload control;material flow control;simulation},
+  doi={10.1109/IEEM63636.2025.11357707}
+  }
 ```
 
 ## License
